@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="jna-5.13.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/main/java/lib/jna-5.13.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/java/lib/tess4j-5.8.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
